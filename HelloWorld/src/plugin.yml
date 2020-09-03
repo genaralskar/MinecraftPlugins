@@ -1,0 +1,10 @@
+name: HelloWorld
+version: 1.0
+author: genaralskar
+main: me.genaralskar.helloworld.Main
+description: A plugin idk
+
+commands:
+  hello:
+   aliases: [hi]
+   description: hello command
